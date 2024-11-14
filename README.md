@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # flutter_qrcode_reader
 
 A new Flutter project.
@@ -15,7 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
+
 ### Technology
 ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white)
 
@@ -45,4 +44,3 @@ QRCode Reader ideal untuk berbagai skenario, termasuk:
 - Event check-in: Dapat digunakan untuk memindai tiket elektronik berbasis QR dalam acara atau konferensi.
 - Sistem berbagi kontak: Menggunakan kode QR untuk berbagi detail kontak dengan cepat di acara networking.
 - Berbagi Wi-Fi dengan tamu: Memungkinkan pengguna untuk membagikan akses jaringan Wi-Fi tanpa memberikan kata sandi secara manual.
->>>>>>> f4091fbfa58c27e9f50527912bcd8a0a56278fb9
